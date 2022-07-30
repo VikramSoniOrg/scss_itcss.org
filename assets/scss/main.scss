@@ -1,0 +1,20 @@
+//Tools
+@import 'tools/mixins.scss';
+
+//Settings
+@import 'settings/main-settings';
+
+//generic
+@import 'generic/scroll';
+
+//Element
+@import 'elements/elements';
+
+//Object
+@import 'objects/objects';
+
+//Component
+@import 'components/main-components';
+
+//Utilities
+@import 'trumps/main-trumps';
